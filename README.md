@@ -5,7 +5,7 @@ It's easy to use and runs in most of the OS.
 
 And in this repo we got some usefull tips, that you can use to provisioning your infrastructure with Ansible.
 
-In the folder run the command below:\
+In the folder run the command below:
 ```
 ansible-playbook -i hosts main.yml
 ```

@@ -8,23 +8,14 @@ What we got for now:
 
 - AWS provisioning instances, security groups, elastic ips.
 
-/
 
 **DigitalOcean**
 
-/
-
 TODO
-
-/
 
 **AZURE**
 
-/
-
 TODO
-
-/
 
 **Note**: Make sure you have Ansible.
 

@@ -1,6 +1,6 @@
 # ansible
 
-# AWS
+**AWS**
 Here we have some usefull playbooks that we can use.
 
 What we got for now:
@@ -8,7 +8,10 @@ What we got for now:
 - AWS provisioning instances, security groups, elastic ips.
 
 
-Note: Make sure you have Ansible.
+
+
+
+**Note**: Make sure you have Ansible.
 
 Installation guide:
 https://docs.ansible.com/ansible/latest/installation_guide/index.html

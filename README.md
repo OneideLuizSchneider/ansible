@@ -1,5 +1,5 @@
 # ansible
-\
+
 # AWS
 Here we have some usefull playbooks that we can use.
 

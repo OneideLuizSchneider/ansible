@@ -7,8 +7,8 @@ What we got for now:
 
 - AWS provisioning instances, security groups, elastic ips.
 
-\
 
 Note: Make sure you have Ansible.
+
 Installation guide:
 https://docs.ansible.com/ansible/latest/installation_guide/index.html
